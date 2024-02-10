@@ -4,14 +4,14 @@ This repository hosts the source code for a dynamic food delivery web applicatio
 
 # Development Setup
 
-Clone the repository and run the following commands: \
+Clone the repository and run the following commands: 
 
-In directory: noshful-food-delivery-application \
+In directory: noshful-food-delivery-application 
 
 `npm install` \
 `npm start` 
 
-In directory: noshful-food-delivery-application/backend \
+In directory: noshful-food-delivery-application/backend 
 
 `nodemon index.js` 
 
